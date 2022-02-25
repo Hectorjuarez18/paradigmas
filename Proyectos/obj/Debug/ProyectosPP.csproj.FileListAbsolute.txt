@@ -1,0 +1,15 @@
+C:\Users\Hector\Pictures\ProyectosPP-master\bin\Debug\ProyectosPP.exe.config
+C:\Users\Hector\Pictures\ProyectosPP-master\bin\Debug\ProyectosPP.exe
+C:\Users\Hector\Pictures\ProyectosPP-master\bin\Debug\ProyectosPP.pdb
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.AssemblyReference.cache
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.menu.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.Properties.Resources.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.arreglosbidimencionales.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.calculadora.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.calculosaritmeticos.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.promediodetrescalificaciones.resources
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.GenerateResource.cache
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.exe
+C:\Users\Hector\Pictures\ProyectosPP-master\obj\Debug\ProyectosPP.pdb
